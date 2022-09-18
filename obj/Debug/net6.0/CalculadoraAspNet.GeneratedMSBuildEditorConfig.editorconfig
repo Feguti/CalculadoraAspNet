@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CalculadoraAspNet
+build_property.RootNamespace = CalculadoraAspNet
+build_property.ProjectDir = c:\Users\fegut\Desktop\CalculadoraAspNet\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\fegut\Desktop\CalculadoraAspNet
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Calculadora/Calculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcQ2FsY3VsYWRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Calculadora/Resultado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcUmVzdWx0YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/Dividir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xEaXZpZGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/Multiplicar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xNdWx0aXBsaWNhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/ResultadoDivisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xSZXN1bHRhZG9EaXZpc2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/ResultadoMultiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xSZXN1bHRhZG9NdWx0aXBsaWNhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/ResultadoSoma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xSZXN1bHRhZG9Tb21hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/ResultadoSubtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xSZXN1bHRhZG9TdWJ0cmFjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/Somar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xTb21hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/MathOps/Subtrair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aE9wc1xTdWJ0cmFpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/fegut/Desktop/CalculadoraAspNet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-phd23srq00
